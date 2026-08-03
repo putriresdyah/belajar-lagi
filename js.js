@@ -1,4 +1,3 @@
-let x = 0;
-
-(x == 8); // equals false
-(x != 8); // equals true
+let x = 6;
+let y = 3;
+let z = (x < 10 && y > 1)
